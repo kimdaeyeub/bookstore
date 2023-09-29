@@ -1,4 +1,4 @@
-import mongoose, { models } from "mongoose";
+import mongoose from "mongoose";
 
 // new가 뭔지 알아보기
 const bookeSchema = new mongoose.Schema(
